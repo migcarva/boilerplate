@@ -45,7 +45,7 @@
   "homepage": "https://github.com/migcarva/tothesea-parcel#readme",
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "llog": "^0.2.0",
     "pino": "^5.11.3",
     "react": "^16.8.5",
